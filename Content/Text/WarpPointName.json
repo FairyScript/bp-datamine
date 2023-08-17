@@ -548,6 +548,38 @@
               100
             ]
           }
+        },
+        {
+          "Id": {
+            "IdString": "pub0804",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "紅葉隠れの庵",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "pub0901",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "砂煙の野営地",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
         }
       ]
     }

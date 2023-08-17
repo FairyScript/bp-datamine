@@ -603,12 +603,12 @@
             "FallbackId": "None",
             "IdNumber": 39
           },
-          "Text": "{name}がオフラインになりました",
+          "Text": "「今すぐパーティ」が{switch}になりました",
           "MetaData": [],
           "Version": {
             "Versions": [
               1,
-              0,
+              1,
               0
             ]
           }
@@ -619,7 +619,7 @@
             "FallbackId": "None",
             "IdNumber": 40
           },
-          "Text": "{name}がパーティに復帰しました",
+          "Text": "{name}がオフラインになりました",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -635,7 +635,7 @@
             "FallbackId": "None",
             "IdNumber": 41
           },
-          "Text": "パーティに復帰しました",
+          "Text": "{name}がパーティに復帰しました",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -650,6 +650,22 @@
             "IdString": "42",
             "FallbackId": "None",
             "IdNumber": 42
+          },
+          "Text": "パーティに復帰しました",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "43",
+            "FallbackId": "None",
+            "IdNumber": 43
           },
           "Text": "まもなく同意したメンバーが合流します。",
           "MetaData": [],

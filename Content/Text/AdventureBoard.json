@@ -251,7 +251,7 @@
             "FallbackId": "None",
             "IdNumber": 16
           },
-          "Text": "報酬一括受け取り",
+          "Text": "一括受け取り",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -775,6 +775,86 @@
         },
         {
           "Id": {
+            "IdString": "50",
+            "FallbackId": "None",
+            "IdNumber": 50
+          },
+          "Text": "新しいランクアップボードを入手しました",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "51",
+            "FallbackId": "None",
+            "IdNumber": 51
+          },
+          "Text": "新しいアドベンチャーボードを入手しました",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "53",
+            "FallbackId": "None",
+            "IdNumber": 53
+          },
+          "Text": "所持ボード",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "54",
+            "FallbackId": "None",
+            "IdNumber": 54
+          },
+          "Text": "コンプリート",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "55",
+            "FallbackId": "None",
+            "IdNumber": 55
+          },
+          "Text": "進行中ボード",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "100",
             "FallbackId": "None",
             "IdNumber": 100
@@ -1137,6 +1217,22 @@
             "Versions": [
               1,
               0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "219",
+            "FallbackId": "None",
+            "IdNumber": 219
+          },
+          "Text": "クラス：ブリッツランサー",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
               0
             ]
           }

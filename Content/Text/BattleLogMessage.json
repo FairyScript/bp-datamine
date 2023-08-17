@@ -459,7 +459,7 @@
             "FallbackId": "None",
             "IdNumber": 28
           },
-          "Text": "チェインボーナス発動：リジェネ",
+          "Text": "パーティチェインボーナス発動：リジェネ",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -475,7 +475,7 @@
             "FallbackId": "None",
             "IdNumber": 29
           },
-          "Text": "チェインボーナス発動：被ダメージ軽減",
+          "Text": "パーティチェインボーナス発動：被ダメージ軽減",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -491,7 +491,7 @@
             "FallbackId": "None",
             "IdNumber": 30
           },
-          "Text": "チェインボーナス発動：スーパーアーマー",
+          "Text": "パーティチェインボーナス発動：スーパーアーマー",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -507,7 +507,7 @@
             "FallbackId": "None",
             "IdNumber": 31
           },
-          "Text": "チェインボーナス発動：ULTリキャスト短縮",
+          "Text": "パーティチェインボーナス発動：ULTリキャスト短縮",
           "MetaData": [],
           "Version": {
             "Versions": [

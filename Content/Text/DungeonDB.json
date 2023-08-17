@@ -231,6 +231,38 @@
         },
         {
           "Id": {
+            "IdString": "dng007_Hard_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "1000年後の未来に存在するバファリア神族の研究施設。\nバシュラールの指揮のもと、『アバリティアシェル』の開発を目的に建造された。\n人智を超えた場所であり、運命に選ばれた者でなければ、そこへたどり着くことすら不可能だろう。",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "dng007_Hard_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内にボスエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "sce009_DisplayDesc",
             "FallbackId": "None",
             "IdNumber": 0
@@ -386,6 +418,38 @@
               1,
               0,
               0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "dng011_Hard_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "バファリア教団における最重要拠点。\n堅牢な自動防衛システムに守られ、一部の幹部を除き神官であっても立ち入りは許されていない。\n最奥に宿るという大いなる神秘に近づくことは、卓抜した戦士だけの特権と言える。",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "dng011_Hard_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内にボスエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
             ]
           }
         },
@@ -711,6 +775,38 @@
         },
         {
           "Id": {
+            "IdString": "pat0204_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "リッツェ村の伝説で、水の精が棲むと伝えられる不思議な洞窟。\n美しく舞い踊る水精の姿を目にした者はたちまち虜となり、永遠にこの地をさまようという。",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "pat0204_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内に全てのエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "pat0301_DisplayDesc",
             "FallbackId": "None",
             "IdNumber": 0
@@ -738,6 +834,38 @@
               1,
               0,
               0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "pat0302_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "バファリア文明華やかなりし頃、この地を治めていた王家の墳墓。\n内部に立ち入った者が次々と非業の死を遂げたため、いつしかこう呼ばれるようになった。\nどこかに眠るはずの王家の財宝は、いまだ誰の目にも触れない。",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "pat0302_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内にボスエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
             ]
           }
         },
@@ -1127,6 +1255,70 @@
         },
         {
           "Id": {
+            "IdString": "arn002_ex03_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "パーティの実力が試される闘技場。\n仲間と協力し、全エネミー撃破を目指せ！\n\n・エネミーの特性、出現順を見極めろ！\n・属性、特効で有利に戦え！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "arn002_ex03_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内に全てのエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "arn002_ex04_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "パーティの実力が試される闘技場。\n仲間と協力し、全エネミー撃破を目指せ！\n\n・エネミーの特性、出現順を見極めろ！\n・属性、特効で有利に戦え！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "arn002_ex04_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内に全てのエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "tad004_DisplayDesc",
             "FallbackId": "None",
             "IdNumber": 0
@@ -1153,6 +1345,38 @@
             "Versions": [
               1,
               0,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "tad005_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "冒険者の力量を測るために用意されたクリアタイムを競う競技。\n最速を目指す者たちが己の限界に挑む。\n\n・ボスエネミー討伐までのタイムを競え\n・サプライヤーなどのギミック活用がタイム短縮のカギ",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "tad005_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内にボスエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
               100
             ]
           }
@@ -1186,6 +1410,70 @@
               1,
               0,
               0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "tad0202_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "冒険者の力量を測るために用意されたクリアタイムを競う競技。\n最速を目指す者たちが己の限界に挑む。\n\n・ボスエネミー討伐までのタイムを競え\n・サプライヤーなどのギミック活用がタイム短縮のカギ",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "tad0202_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内にボスエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "sad0101_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内に獲得したスコアを競う競技。\n頂点を目指す者たちが己の限界に挑む。\n\n・光るタイムボールを取って制限時間を伸ばせ\n・ヒット数を稼ぐのがスコアアップのカギ",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "sad0101_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内でより高いスコアを叩き出せ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
             ]
           }
         },
@@ -1255,6 +1543,38 @@
         },
         {
           "Id": {
+            "IdString": "sad0201_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内に獲得したスコアを競う競技。\n頂点を目指す者たちが己の限界に挑む。\n\n・光るタイムボールを取って制限時間を伸ばせ\n・ヒット数を稼ぐのがスコアアップのカギ",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "sad0201_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内でより高いスコアを叩き出せ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "rai001_DisplayDesc",
             "FallbackId": "None",
             "IdNumber": 0
@@ -1319,6 +1639,38 @@
         },
         {
           "Id": {
+            "IdString": "rai003_Hard_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "突如現れた謎の『星脈孔』。そこで冒険者たちが見たものは……。\n協力しつつランキング上位を目指せ！\n\n・多人数で巨大なエネミーに挑め\n・活躍したプレイヤーにはボーナス報酬が付与される\n<span color=\"Emphasis\">※このミッションではバッグ内のアイテムも使用可能です</>",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "rai003_Hard_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内にボスエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "rai004_Hard_DisplayDesc",
             "FallbackId": "None",
             "IdNumber": 0
@@ -1345,6 +1697,38 @@
             "Versions": [
               1,
               0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "rai005_Hard_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "突如現れた謎の『星脈孔』。そこで冒険者たちが見たものは……。\n協力しつつランキング上位を目指せ！\n\n・多人数で巨大なエネミーに挑め\n・活躍したプレイヤーにはボーナス報酬が付与される\n<span color=\"Emphasis\">※このミッションではバッグ内のアイテムも使用可能です</>",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "rai005_Hard_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "制限時間内にボスエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
               0
             ]
           }
@@ -1735,6 +2119,38 @@
         },
         {
           "Id": {
+            "IdString": "cqb060_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "あれが『ゼニスシャフト』を持ってるオーガだな。\nそして、ルーゲルさんに怪我をさせた奴だ。許せない！\n前までの俺なら泣いてたけど、今は頼れる仲間がいるんだ！\nオーガなんて怖くない！　俺たちが倒してやる！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "cqb060_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "全てのエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "exq001_DisplayDesc",
             "FallbackId": "None",
             "IdNumber": 0
@@ -1762,6 +2178,38 @@
               1,
               0,
               0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "exq002_DisplayDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "バファリア文明時代の構造物が埋もれ、周辺の地形と一体化してできた遺跡。\n深部では、バファリアの遺産である機械類が稼働し続けており、まるで何かを守るかのように立ち入る者を排除する。",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "exq002_RuleDesc",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "全てのエネミーを討伐せよ！",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              100
             ]
           }
         },

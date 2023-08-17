@@ -175,6 +175,90 @@
         },
         {
           "Id": {
+            "IdString": "112",
+            "FallbackId": "None",
+            "IdNumber": 112
+          },
+          "Text": "外部認証エラー",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "113",
+            "FallbackId": "None",
+            "IdNumber": 113
+          },
+          "Text": "アカウント連携していません",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "114",
+            "FallbackId": "None",
+            "IdNumber": 114
+          },
+          "Text": "すでに連携済みのアカウントです",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "115",
+            "FallbackId": "None",
+            "IdNumber": 115
+          },
+          "Text": "メンテナンス中です",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "116",
+            "FallbackId": "None",
+            "IdNumber": 116
+          },
+          "Text": "BNID連携済みです",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "117",
+            "FallbackId": "None",
+            "IdNumber": 117
+          },
+          "Text": "BNID連携サービス対象外",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "118",
+            "FallbackId": "None",
+            "IdNumber": 118
+          },
+          "Text": "連係解除済みのアカウントです",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
             "IdString": "120",
             "FallbackId": "None",
             "IdNumber": 120
@@ -192,6 +276,18 @@
             "IdNumber": 121
           },
           "Text": "サーバーとの接続が切断されたためキャラクター選択に戻ります",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "122",
+            "FallbackId": "None",
+            "IdNumber": 122
+          },
+          "Text": "利用対象のプラットフォーム以外でAPIを呼び出しています",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -631,6 +727,30 @@
         },
         {
           "Id": {
+            "IdString": "1105",
+            "FallbackId": "None",
+            "IdNumber": 1105
+          },
+          "Text": "プラットフォームが異なるキャラクターです",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "1106",
+            "FallbackId": "None",
+            "IdNumber": 1106
+          },
+          "Text": "既に登録済みです",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
             "IdString": "2000",
             "FallbackId": "None",
             "IdNumber": 2000
@@ -1039,6 +1159,30 @@
         },
         {
           "Id": {
+            "IdString": "5055",
+            "FallbackId": "None",
+            "IdNumber": 5055
+          },
+          "Text": "アクセス禁止",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "5056",
+            "FallbackId": "None",
+            "IdNumber": 5056
+          },
+          "Text": "アクセス禁止",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
             "IdString": "6000",
             "FallbackId": "None",
             "IdNumber": 6000
@@ -1104,6 +1248,18 @@
             "IdNumber": 6005
           },
           "Text": "このアイテムは既に受け取っています",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "6006",
+            "FallbackId": "None",
+            "IdNumber": 6006
+          },
+          "Text": "ユーザのプラットフォームがレターの受け取り可能プラットフォームと一致しません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -2107,6 +2263,54 @@
         },
         {
           "Id": {
+            "IdString": "13005",
+            "FallbackId": "None",
+            "IdNumber": 13005
+          },
+          "Text": "ミッションの状況が更新され、参加可能条件を満たさない状態になりました",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "13006",
+            "FallbackId": "None",
+            "IdNumber": 13006
+          },
+          "Text": "アクセス禁止",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "13007",
+            "FallbackId": "None",
+            "IdNumber": 13007
+          },
+          "Text": "アクセス禁止",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "13010",
+            "FallbackId": "None",
+            "IdNumber": 13010
+          },
+          "Text": "参加先ミッションの人数が上限に達しているため、突入できませんでした",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
             "IdString": "13100",
             "FallbackId": "None",
             "IdNumber": 13100
@@ -2315,7 +2519,7 @@
             "FallbackId": "None",
             "IdNumber": 17003
           },
-          "Text": "データが読み込めません",
+          "Text": "ミッション中に報酬を受け取ることはできません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -2779,6 +2983,18 @@
         },
         {
           "Id": {
+            "IdString": "20012",
+            "FallbackId": "None",
+            "IdNumber": 20012
+          },
+          "Text": "有効期限が過ぎたアイテムが消滅しました",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
             "IdString": "21000",
             "FallbackId": "None",
             "IdNumber": 21000
@@ -2976,6 +3192,18 @@
             "IdNumber": 24002
           },
           "Text": "エステサロンで変更できる外見ではありません",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "24003",
+            "FallbackId": "None",
+            "IdNumber": 24003
+          },
+          "Text": "アクセス禁止",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -3696,6 +3924,18 @@
             "IdNumber": 40008
           },
           "Text": "報酬プラスチケットが存在しません",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "40009",
+            "FallbackId": "None",
+            "IdNumber": 40009
+          },
+          "Text": "エラーが発生したため、リザルトをスキップします。報酬がある場合は格納先に転送されました",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -4459,6 +4699,30 @@
         },
         {
           "Id": {
+            "IdString": "51014",
+            "FallbackId": "None",
+            "IdNumber": 51014
+          },
+          "Text": "アクセス禁止",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "51015",
+            "FallbackId": "None",
+            "IdNumber": 51015
+          },
+          "Text": "パーティ内で冒険者ランクが、レイドバトルに突入可能なランクに達していません",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
             "IdString": "52000",
             "FallbackId": "None",
             "IdNumber": 52000
@@ -4987,6 +5251,18 @@
         },
         {
           "Id": {
+            "IdString": "63018",
+            "FallbackId": "None",
+            "IdNumber": 63018
+          },
+          "Text": "エラーが発生しました",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
             "IdString": "64000",
             "FallbackId": "None",
             "IdNumber": 64000
@@ -5135,7 +5411,7 @@
             "FallbackId": "None",
             "IdNumber": 69000
           },
-          "Text": "ベースアイテムが見つかりません",
+          "Text": "限界突破させる装備品が見つかりません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -5147,7 +5423,7 @@
             "FallbackId": "None",
             "IdNumber": 69001
           },
-          "Text": "素材アイテムが見つかりません",
+          "Text": "限界突破で使用する装備品が見つかりません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -5159,7 +5435,7 @@
             "FallbackId": "None",
             "IdNumber": 69002
           },
-          "Text": "補助アイテムが足りません",
+          "Text": "素材アイテムが足りません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -5195,7 +5471,7 @@
             "FallbackId": "None",
             "IdNumber": 69005
           },
-          "Text": "そのトークンは使用できません",
+          "Text": "そのチケットは使用できません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -5219,7 +5495,7 @@
             "FallbackId": "None",
             "IdNumber": 69007
           },
-          "Text": "素材アイテムが足りません",
+          "Text": "限界突破で使用する装備品が足りません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -5231,7 +5507,7 @@
             "FallbackId": "None",
             "IdNumber": 69008
           },
-          "Text": "素材アイテムを装備中です",
+          "Text": "装備しているものは使用できません",
           "MetaData": [],
           "Version": {
             "Versions": []
@@ -5580,6 +5856,42 @@
             "IdNumber": 69592
           },
           "Text": "キャラクターのゲームサーバ接続に失敗しました",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "70000",
+            "FallbackId": "None",
+            "IdNumber": 70000
+          },
+          "Text": "OMSリクエスト失敗",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "80000",
+            "FallbackId": "None",
+            "IdNumber": 80000
+          },
+          "Text": "アステルリーグマスターが存在しないエラー",
+          "MetaData": [],
+          "Version": {
+            "Versions": []
+          }
+        },
+        {
+          "Id": {
+            "IdString": "90000",
+            "FallbackId": "None",
+            "IdNumber": 90000
+          },
+          "Text": "メンテナンスが終了しました。ゲームを再起動してください",
           "MetaData": [],
           "Version": {
             "Versions": []

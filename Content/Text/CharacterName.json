@@ -1467,7 +1467,7 @@
             "FallbackId": "None",
             "IdNumber": 0
           },
-          "Text": "ねこ",
+          "Text": "猫",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -2871,11 +2871,11 @@
         },
         {
           "Id": {
-            "IdString": "Npc_Nora",
+            "IdString": "Npc_Tear",
             "FallbackId": "None",
             "IdNumber": 0
           },
-          "Text": "ノーラ",
+          "Text": "ティア",
           "MetaData": [],
           "Version": {
             "Versions": [
@@ -3121,6 +3121,22 @@
             "Versions": [
               1,
               0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Lancer",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "カラント",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
               0
             ]
           }
@@ -4215,6 +4231,70 @@
         },
         {
           "Id": {
+            "IdString": "Npc_Lhugel",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "ルーゲル",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Jerry",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "ジェリー",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Naver",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "ネイバー",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Angelica",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "アンジェリカ",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
             "IdString": "Npc_Naccle",
             "FallbackId": "None",
             "IdNumber": 0
@@ -4353,6 +4433,54 @@
             "Versions": [
               1,
               0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Material_Broker",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "素材密売人",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Bandit",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "山賊",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Dalton",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "ダルトン",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              1,
               0
             ]
           }
@@ -4684,6 +4812,22 @@
             "IdNumber": 0
           },
           "Text": "アンドール",
+          "MetaData": [],
+          "Version": {
+            "Versions": [
+              1,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "Id": {
+            "IdString": "Npc_Nora",
+            "FallbackId": "None",
+            "IdNumber": 0
+          },
+          "Text": "ノーラ",
           "MetaData": [],
           "Version": {
             "Versions": [
